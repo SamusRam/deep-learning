@@ -1,3 +1,6 @@
+## My results
+My submissions can be found in the directory Submissions.
+
 ## Installation
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
